@@ -15,7 +15,7 @@
 3. Jika lebih dari 9 maka akan muncul output Adelia Nurazizah Omega Putri sampai ke 100
 ```sh
    else {
-   System.out.println("Akhmat Qavidhufahmi");
+   System.out.println("Adelia Nurazizah Omega Putri");
 }
    ```
 4. Berikut adalah hasil output dari program
